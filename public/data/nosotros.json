@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mariana Carballo",
+    "email": "mariana@talentolab.com",
+    "puesto": "CEO",
+    "foto": "/images/mariana.jpg" 
+  },
+  {
+    "id": 2,
+    "nombre": "Sebastian Pérez",
+    "email": "sebastian@talentolab.com",
+    "puesto": "Desarrollador Frontend",
+    "foto": "/images/sebastian.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Martin Gómez",
+    "email": "martin@talentolab.com",
+    "puesto": "Diseñadora UX",
+    "foto": "/images/martin.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Valentin Rojas",
+    "email": "valentin@talentolab.com",
+    "puesto": "Project Manager",
+    "foto": "/images/valentin.jpg"
+  }
+]

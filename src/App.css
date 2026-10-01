@@ -1,0 +1,13 @@
+
+.productos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 320px));
+  justify-content: center;
+  gap: 20px;
+  margin-top: 16px;
+}
+
+
+main {
+  padding: 20px;
+}

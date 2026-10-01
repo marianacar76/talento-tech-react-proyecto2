@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "nombre": "Cuaderno",
+    "precio": 3500,
+    "stock": 20
+  },
+  {
+    "id": "2",
+    "nombre": "Lapicera",
+    "precio": 1200,
+    "stock": 50
+  },
+  {
+    "id": "3",
+    "nombre": "Mochila",
+    "precio": 25000,
+    "stock": 10
+  }
+]

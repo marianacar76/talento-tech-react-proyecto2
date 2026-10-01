@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Helvetica', sans-serif;
+  background-color: #F5F3E7;
+}
+
+h1, h2, h3, p {
+  color: #3A4D39;
+}

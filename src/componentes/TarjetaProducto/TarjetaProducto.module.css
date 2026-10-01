@@ -1,0 +1,45 @@
+.tarjeta {
+  background-color: white;
+  border: 2px solid #5C6E52;
+  border-radius: 12px;
+  padding: 16px;
+  max-width: 320px;
+}
+
+.tarjeta img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.tarjeta h3 {
+  color: #3A4D39;
+  margin: 12px 0 4px;
+}
+
+.tarjeta p {
+  color: #5C6E52;
+  font-weight: bold;
+}
+
+.tarjeta {
+  background-color: white;
+  border: 2px solid #5C6E52;
+  border-radius: 12px;
+  padding: 16px;
+  max-width: 320px;
+}
+
+.tarjeta img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.tarjeta h3 {
+  color: #3A4D39;
+  margin: 12px 0 4px;
+}
+
+.tarjeta p {
+  color: #5C6E52;
+  font-weight: bold;
+}
